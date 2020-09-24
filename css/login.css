@@ -14,7 +14,8 @@
 }
 
 .form-signin{
-    padding:40px;
+    height: 350px;
+    padding:20px;
     text-align: center;
     background: rgb(179, 24, 50); 
     border-style: solid; 
